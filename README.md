@@ -5,4 +5,5 @@ Forked from [FrequencyWords](https://github.com/hermitdave/FrequencyWords) to ge
 
 # Usage
 A list of randomized frequently used German words will pop up, and after 3 seconds the English translation will be shown. You can click the 'X' if you don't know the word, or '✓' if you know it.
+
 In the end there will be a .csv file that compiles all the words that you don't know for later study use.
